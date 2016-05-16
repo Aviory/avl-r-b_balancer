@@ -1,0 +1,16 @@
+D:\VS\Projects\Inna 03-01-16\MyTree\ITree\bin\Debug\ITree.dll
+D:\VS\Projects\Inna 03-01-16\MyTree\ITree\bin\Debug\ITree.pdb
+D:\VS\Projects\Inna 03-01-16\MyTree\ITree\obj\Debug\ITree.csprojResolveAssemblyReference.cache
+D:\VS\Projects\Inna 03-01-16\MyTree\ITree\obj\Debug\ITree.dll
+D:\VS\Projects\Inna 03-01-16\MyTree\ITree\obj\Debug\ITree.pdb
+H:\WF-Paint-Tree\ITree\bin\Debug\ITree.dll
+H:\WF-Paint-Tree\ITree\bin\Debug\ITree.pdb
+H:\WF-Paint-Tree\ITree\obj\Debug\ITree.csprojResolveAssemblyReference.cache
+H:\WF-Paint-Tree\ITree\obj\Debug\ITree.dll
+H:\WF-Paint-Tree\ITree\obj\Debug\ITree.pdb
+D:\HW12_Paint_Tree\ITree\bin\Debug\ITree.dll
+D:\HW12_Paint_Tree\ITree\bin\Debug\ITree.pdb
+D:\HW12_Paint_Tree\ITree\obj\Debug\ITree.dll
+D:\HW12_Paint_Tree\ITree\obj\Debug\ITree.pdb
+D:\HW12_Paint_Tree\ITree\bin\Debug\nunit.framework.dll
+D:\HW12_Paint_Tree\ITree\bin\Debug\nunit.framework.xml

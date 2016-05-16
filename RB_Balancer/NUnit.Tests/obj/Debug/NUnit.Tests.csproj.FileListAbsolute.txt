@@ -1,0 +1,11 @@
+D:\HW12_Paint_Tree\NUnit.Tests\obj\Debug\NUnit.Tests.csprojResolveAssemblyReference.cache
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\NUnit.Tests.dll
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\NUnit.Tests.pdb
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\ITree.dll
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\nunit.framework.dll
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\WF-Paint.exe
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\ITree.pdb
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\WF-Paint.pdb
+D:\HW12_Paint_Tree\NUnit.Tests\bin\Debug\nunit.framework.xml
+D:\HW12_Paint_Tree\NUnit.Tests\obj\Debug\NUnit.Tests.dll
+D:\HW12_Paint_Tree\NUnit.Tests\obj\Debug\NUnit.Tests.pdb
